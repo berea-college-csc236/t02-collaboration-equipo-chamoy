@@ -9,6 +9,7 @@
     Ricardo Bahena
 
     Valentin Rama
+
  */
 #include <iostream>
 using namespace std;
@@ -24,10 +25,11 @@ int main() {
 
     for (int i = 0; i < ducknum; i++) { 
 
-        cout << "                ^ ^     " << endl; 
-        cout << "               (0.0)" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
+        cout << "                /'\     " << endl; 
+        cout << "               {0v0}    " << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "                 |     " << endl; // student 3(2) may change this line
         cout << "               _/ \_    " << endl; // TODO student 2 may change this line and may add lines below
+
     }
 
     return 0;
